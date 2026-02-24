@@ -1,0 +1,6 @@
+com/umb/crud/repository/PersonaRepository.class
+com/umb/crud/model/Persona.class
+com/example/servingwebcontent/ServingWebContentApplication.class
+com/umb/crud/controller/PersonaController.class
+com/umb/crud/CrudMvcApplication.class
+com/umb/crud/controller/HomeController.class

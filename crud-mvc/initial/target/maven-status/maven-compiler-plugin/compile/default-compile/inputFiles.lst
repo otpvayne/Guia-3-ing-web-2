@@ -1,0 +1,6 @@
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/example/servingwebcontent/ServingWebContentApplication.java
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/umb/crud/CrudMvcApplication.java
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/umb/crud/controller/HomeController.java
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/umb/crud/controller/PersonaController.java
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/umb/crud/model/Persona.java
+/workspaces/Guia-3-ing-web-2/crud-mvc/initial/src/main/java/com/umb/crud/repository/PersonaRepository.java
